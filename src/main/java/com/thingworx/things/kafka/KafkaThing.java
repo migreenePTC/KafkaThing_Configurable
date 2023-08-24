@@ -214,7 +214,7 @@ public class KafkaThing
         } else {
             InfoTable it = InfoTableInstanceFactory.createInfoTableFromDataShape(ds.getDataShape());
             _Logger.info("Starting listening for messages");
-
+            initializeThing();
             initContainerArgs();
 
             final CountDownLatch latch = new CountDownLatch(maxItems.intValue());
