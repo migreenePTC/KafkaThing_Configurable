@@ -6,7 +6,7 @@ This repository is provided "AS-IS" with **no warranty or support** given. This 
 
 Download the extension package from
 
-https://github.com/ptc-iot-sharing/KafkaThing/releases/download/1.0.91/KafkaExtensions.zip
+[https://github.com/ptc-iot-sharing/KafkaThing/releases/download/1.0.91/KafkaExtensions.zip](https://github.com/migreenePTC/KafkaThing_Configurable/releases/download/1.0/KafkaExtension_Configurable.zip)
 
 **Description**
 
